@@ -1,3 +1,3 @@
 # Data-science-project-2
-##Machine learning : supervised learning, multi-label classification
-Objective:To develope a machine learning algorithm to use the anonymized data on customer orders over time to predict which previously purchased products will be in a user’s next order
+## Machine learning : supervised learning, text mining
+Objective:To develop a machine learning algorithm that automatically classifies genetic variations to distinguish the mutations that contribute to tumor growth from the neutral mutations
